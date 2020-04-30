@@ -10,7 +10,7 @@
 ##1)x which is a formal argument for the function makeCacheMatrix() 
 ##which has a default value of a matrix.
 ##2)inversemat which is NULL till calculated.
-##3)y which is a formal argument for the function(set()).
+##3)y which is a formal argument for the function(set())
 
 makeCacheMatrix <- function(x = matrix()) {
         inversemat <- NULL
